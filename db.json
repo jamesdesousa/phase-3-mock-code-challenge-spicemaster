@@ -2,8 +2,9 @@
   "spiceblends": [
     {
       "id": 1,
-      "title": "Pumpkin Spice",
-      "image": "./assets/spices/pumpkinspicelatte.jpg"
+      "title": "turn up?",
+      "image": "./assets/spices/pumpkinspicelatte.jpg",
+      "ingredients": "if this works"
     },
     {
       "id": 2,
